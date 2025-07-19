@@ -1,4 +1,4 @@
 # SaranaPenerangan
 Pemetaan Sarana Penerangan
-Link peta interaktif
+# Link peta interaktif
 https://psaranapeneranganjalan.netlify.app/
